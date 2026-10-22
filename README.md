@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="DAVI MATTOS — Products. Experiences. And people. Product designer and builder turning ideas into clear, meaningful digital experiences.">
+  <img src="assets/hero-light.svg" width="100%" alt="Product designer &amp; builder — Products. Experiences. And people. Product designer and builder turning ideas into clear, meaningful digital experiences.">
 </picture>
 
 <br><br>
