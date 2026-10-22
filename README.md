@@ -2,12 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=F2B33D&center=true&vCenter=true&width=640&height=44&lines=Hi%2C+I'm+Davi+Mattos;Product+Designer+%C2%B7+Art+Director;I+give+shape+to+ideas;Pixel+art+after+hours" alt="Hi, I'm Davi Mattos — Product Designer · Art Director">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&color=F2B33D&center=true&vCenter=true&width=760&height=44&lines=Hi%2C+I'm+Davi+Mattos;Product+Designer+%C2%B7+Art+Director;I+give+shape+to+ideas;Pixel+art+after+hours" alt="Hi, I'm Davi Mattos — Product Designer · Art Director">
 
-<a href="https://davimattos.framer.website/"><img src="https://img.shields.io/badge/portfolio-1B1B1B?style=for-the-badge&logo=framer&logoColor=F2B33D" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/davimattoscorrea/"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F2B33D" alt="LinkedIn"></a>
-<a href="https://dribbble.com/Davi_Mattos"><img src="https://img.shields.io/badge/dribbble-1B1B1B?style=for-the-badge&logo=dribbble&logoColor=F2B33D" alt="Dribbble"></a>
-<a href="https://www.instagram.com/davimattosdesign/"><img src="https://img.shields.io/badge/instagram-1B1B1B?style=for-the-badge&logo=instagram&logoColor=F2B33D" alt="Instagram"></a>
+<a href="https://davimattos.framer.website/"><img src="https://img.shields.io/badge/portfolio-1B1B1B?style=for-the-badge&logo=framer&logoColor=F2B33D" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/davimattoscorrea/"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F2B33D" alt="LinkedIn"></a> <a href="https://dribbble.com/Davi_Mattos"><img src="https://img.shields.io/badge/dribbble-1B1B1B?style=for-the-badge&logo=dribbble&logoColor=F2B33D" alt="Dribbble"></a> <a href="https://www.instagram.com/davimattosdesign/"><img src="https://img.shields.io/badge/instagram-1B1B1B?style=for-the-badge&logo=instagram&logoColor=F2B33D" alt="Instagram"></a>
 
 </div>
 
@@ -30,15 +27,7 @@ Since 2020 I've moved across visual identity, art direction, UX/UI and product �
 
 ### `> inventory`
 
-<img src="https://img.shields.io/badge/Figma-1B1B1B?style=for-the-badge&logo=figma&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/Framer-1B1B1B?style=for-the-badge&logo=framer&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/Photoshop-1B1B1B?style=for-the-badge&logo=adobephotoshop&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/Pixelorama-1B1B1B?style=for-the-badge&logo=godotengine&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/TypeScript-1B1B1B?style=for-the-badge&logo=typescript&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/Astro-1B1B1B?style=for-the-badge&logo=astro&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/Vercel-1B1B1B?style=for-the-badge&logo=vercel&logoColor=F2B33D">
-<img src="https://img.shields.io/badge/Arduino-1B1B1B?style=for-the-badge&logo=arduino&logoColor=F2B33D">
+<img src="https://img.shields.io/badge/Figma-1B1B1B?style=for-the-badge&logo=figma&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Framer-1B1B1B?style=for-the-badge&logo=framer&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Photoshop-1B1B1B?style=for-the-badge&logo=adobephotoshop&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Pixelorama-1B1B1B?style=for-the-badge&logo=godotengine&logoColor=F2B33D"> <img src="https://img.shields.io/badge/TypeScript-1B1B1B?style=for-the-badge&logo=typescript&logoColor=F2B33D"> <img src="https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Astro-1B1B1B?style=for-the-badge&logo=astro&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Vercel-1B1B1B?style=for-the-badge&logo=vercel&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Arduino-1B1B1B?style=for-the-badge&logo=arduino&logoColor=F2B33D">
 
 ### `> quests`
 
