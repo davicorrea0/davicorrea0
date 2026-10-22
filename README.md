@@ -1,41 +1,69 @@
-<img src="assets/banner.gif" width="100%" alt="Pixel art of Davi working at his desk by a lake, going from day to night">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="100%" alt="DAVI MATTOS — Products. Experiences. And people. Product designer turning ideas into clear, meaningful digital experiences.">
+</picture>
 
-<div align="center">
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&color=F2B33D&center=true&vCenter=true&width=760&height=44&lines=Hi%2C+I'm+Davi+Mattos;Product+Designer+%C2%B7+Art+Director;I+give+shape+to+ideas;Pixel+art+after+hours" alt="Hi, I'm Davi Mattos — Product Designer · Art Director">
+<img src="assets/banner.gif" width="100%" alt="Pixel art of Davi working at his desk by the lake in Guarapuava, from day to night">
 
-<a href="https://davimattos.framer.website/"><img src="https://img.shields.io/badge/portfolio-1B1B1B?style=for-the-badge&logo=framer&logoColor=F2B33D" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/davimattoscorrea/"><img src="https://img.shields.io/badge/linkedin-1B1B1B?style=for-the-badge&logo=linkedin&logoColor=F2B33D" alt="LinkedIn"></a> <a href="https://dribbble.com/Davi_Mattos"><img src="https://img.shields.io/badge/dribbble-1B1B1B?style=for-the-badge&logo=dribbble&logoColor=F2B33D" alt="Dribbble"></a> <a href="https://www.instagram.com/davimattosdesign/"><img src="https://img.shields.io/badge/instagram-1B1B1B?style=for-the-badge&logo=instagram&logoColor=F2B33D" alt="Instagram"></a>
+<br><br>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-01-dark.svg">
+  <img src="assets/chapter-01-light.svg" width="100%" alt="01 About — Curious by nature. Driven by ideas.">
+</picture>
 
-<br>
+<img align="right" src="assets/davi.gif" width="150" alt="Pixel art of Davi at his desk: working, having a coffee, stretching">
 
-<img align="right" src="assets/davi.gif" width="168" alt="Pixel art of Davi at his desk: typing, drinking coffee, stretching">
+I'm Davi Mattos, a product designer and builder from Guarapuava, Brazil, working where design and technology meet.
 
-### `> about_me`
+I like making complex things feel simple. From the first question to the final detail, I care about how things work as much as how they feel.
 
-Product Designer and UX/UI Designer. I turn open questions into brands, interfaces and digital products with intention.
+My path began in 2020 through visual design and digital marketing, then moved to interfaces, user journeys and product: art direction, UX/UI, and connecting backlog priorities with feature development.
 
-Since 2020 I've moved across visual identity, art direction, UX/UI and product — lately working with backlog, prioritization and feature validation inside a startup.
-
-- 🎨 &nbsp;UX/UI · art direction · research & testing
-- 🧩 &nbsp;product & marketing, close together
-- 👾 &nbsp;after hours: pixel art scenes and tiny hardware
-- 📍 &nbsp;Brazil
+> A dad, a gamer, and a curious human. There's a life around the work, too.
 
 <br clear="right">
 
-### `> inventory`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-02-dark.svg">
+  <img src="assets/chapter-02-light.svg" width="100%" alt="02 Ventures — Things I started. Ideas I'm growing.">
+</picture>
 
-<img src="https://img.shields.io/badge/Figma-1B1B1B?style=for-the-badge&logo=figma&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Framer-1B1B1B?style=for-the-badge&logo=framer&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Photoshop-1B1B1B?style=for-the-badge&logo=adobephotoshop&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Pixelorama-1B1B1B?style=for-the-badge&logo=godotengine&logoColor=F2B33D"> <img src="https://img.shields.io/badge/TypeScript-1B1B1B?style=for-the-badge&logo=typescript&logoColor=F2B33D"> <img src="https://img.shields.io/badge/React-1B1B1B?style=for-the-badge&logo=react&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Astro-1B1B1B?style=for-the-badge&logo=astro&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Vercel-1B1B1B?style=for-the-badge&logo=vercel&logoColor=F2B33D"> <img src="https://img.shields.io/badge/Arduino-1B1B1B?style=for-the-badge&logo=arduino&logoColor=F2B33D">
+<p>
+  <a href="https://motionopen.vercel.app/library"><img src="assets/venture-motion.svg" width="32%" alt="Motion Studio Open — a motion design tool"></a>
+  <a href="https://github.com/davicorrea0/smalltv-pomodoro"><img src="assets/venture-pomodoro.svg" width="32%" alt="SmallTV Pomodoro — pixel-art firmware for your desk clock"></a>
+  <img src="assets/venture-icons.svg" width="32%" alt="Icon collection — a growing icon set (in progress)">
+</p>
 
-### `> quests`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-03-dark.svg">
+  <img src="assets/chapter-03-light.svg" width="100%" alt="03 Toolkit — Design, technology, and a little imagination.">
+</picture>
 
-<a href="https://github.com/davicorrea0/smalltv-pomodoro"><img src="https://raw.githubusercontent.com/davicorrea0/smalltv-pomodoro/main/docs/clock-faces.png" width="100%" alt="SmallTV Pomodoro clock faces"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <img src="assets/toolkit-light.svg" width="100%" alt="Figma, Framer, Photoshop, Pixelorama, Prototyping, Research, TypeScript, React, Astro, Vercel, Arduino and C++, AI-assisted builds">
+</picture>
 
-**[SmallTV Pomodoro](https://github.com/davicorrea0/smalltv-pomodoro)** · custom firmware for a tiny desk clock (ESP8266). A Pomodoro timer with a pixel-art tomato that grows a plant as your focus streak grows, 8 built-in clock faces plus 24 downloadable ones, weather, Alexa voice control and a web panel in three languages. [Website →](https://davicorrea0.github.io/smalltv-pomodoro/)
+<br><br>
 
-<div align="center">
-<br>
-<sub><code>▮▮▮▮▮▮▯▯ thanks for stopping by — press START to continue</code></sub>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/chapter-04-dark.svg">
+  <img src="assets/chapter-04-light.svg" width="100%" alt="04 Get in touch — Good things start with a conversation.">
+</picture>
+
+A project, a possibility, or just a hello. I'd love to hear what you have in mind.
+
+<a href="mailto:davimattoscorrea@gmail.com"><img src="assets/btn-talk.svg" alt="Let's talk"></a>
+<a href="https://br.linkedin.com/in/davimattoscorrea/en"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
+<a href="https://www.behance.net/davimattosdesign"><img src="assets/btn-behance.svg" alt="Behance"></a>
+<a href="https://davimattos.framer.website/"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Made in Brazil. With a little pixel dust.">
+</picture>
