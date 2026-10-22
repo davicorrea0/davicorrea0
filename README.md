@@ -1,11 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="DAVI MATTOS — Products. Experiences. And people. Product designer turning ideas into clear, meaningful digital experiences.">
+  <img src="assets/hero-light.svg" width="100%" alt="DAVI MATTOS — Products. Experiences. And people. Product designer and builder turning ideas into clear, meaningful digital experiences.">
 </picture>
-
-<br><br>
-
-<img src="assets/banner.gif" width="100%" alt="Pixel art of Davi working at his desk by the lake in Guarapuava, from day to night">
 
 <br><br>
 
@@ -32,9 +28,8 @@ My path began in 2020 through visual design and digital marketing, then moved to
 </picture>
 
 <p>
-  <a href="https://motionopen.vercel.app/library"><img src="assets/venture-motion.svg" width="32%" alt="Motion Studio Open — a motion design tool"></a>
-  <a href="https://github.com/davicorrea0/smalltv-pomodoro"><img src="assets/venture-pomodoro.svg" width="32%" alt="SmallTV Pomodoro — pixel-art firmware for your desk clock"></a>
-  <img src="assets/venture-icons.svg" width="32%" alt="Icon collection — a growing icon set (in progress)">
+  <a href="https://motionopen.vercel.app/library"><img src="assets/venture-motion.svg" width="48%" alt="Motion Studio Open — a motion design tool"></a>
+  <a href="https://github.com/davicorrea0/smalltv-pomodoro"><img src="assets/venture-pomodoro.svg" width="48%" alt="SmallTV Pomodoro — pixel-art firmware for your desk clock"></a>
 </p>
 
 <picture>
